@@ -1,0 +1,9 @@
+E:\Projects\Visual Studio\C#\MobiController\WinAPI\bin\Release\WinAPI.dll
+E:\Projects\Visual Studio\C#\MobiController\WinAPI\bin\Release\WinAPI.pdb
+E:\Projects\Visual Studio\C#\MobiController\WinAPI\obj\Release\WinAPI.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio\C#\MobiController\WinAPI\obj\Release\WinAPI.dll
+E:\Projects\Visual Studio\C#\MobiController\WinAPI\obj\Release\WinAPI.pdb
+H:\Projects\Visual Studio\C#\MobiController\WinAPI\bin\Release\WinAPI.dll
+H:\Projects\Visual Studio\C#\MobiController\WinAPI\bin\Release\WinAPI.pdb
+H:\Projects\Visual Studio\C#\MobiController\WinAPI\obj\Release\WinAPI.dll
+H:\Projects\Visual Studio\C#\MobiController\WinAPI\obj\Release\WinAPI.pdb

@@ -1,0 +1,21 @@
+H:\Projects\Visual Studio\C#\MobiController\ToolBox\bin\Debug\ToolBox.dll
+H:\Projects\Visual Studio\C#\MobiController\ToolBox\bin\Debug\ToolBox.pdb
+H:\Projects\Visual Studio\C#\MobiController\ToolBox\bin\Debug\ModServer.dll
+H:\Projects\Visual Studio\C#\MobiController\ToolBox\bin\Debug\ModServer.pdb
+H:\Projects\Visual Studio\C#\MobiController\ToolBox\obj\Debug\ToolBox.csprojResolveAssemblyReference.cache
+H:\Projects\Visual Studio\C#\MobiController\ToolBox\obj\Debug\ToolBox.dll
+H:\Projects\Visual Studio\C#\MobiController\ToolBox\obj\Debug\ToolBox.pdb
+E:\Projects\Visual Studio\C#\MobiController\ToolBox\bin\Debug\ToolBox.dll
+E:\Projects\Visual Studio\C#\MobiController\ToolBox\bin\Debug\ToolBox.pdb
+E:\Projects\Visual Studio\C#\MobiController\ToolBox\bin\Debug\ModServer.dll
+E:\Projects\Visual Studio\C#\MobiController\ToolBox\bin\Debug\ModServer.pdb
+E:\Projects\Visual Studio\C#\MobiController\ToolBox\obj\Debug\ToolBox.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio\C#\MobiController\ToolBox\obj\Debug\ToolBox.dll
+E:\Projects\Visual Studio\C#\MobiController\ToolBox\obj\Debug\ToolBox.pdb
+D:\Users\Ryan\Desktop\MobiController\ToolBox\bin\Debug\ToolBox.dll
+D:\Users\Ryan\Desktop\MobiController\ToolBox\bin\Debug\ToolBox.pdb
+D:\Users\Ryan\Desktop\MobiController\ToolBox\bin\Debug\ModServer.dll
+D:\Users\Ryan\Desktop\MobiController\ToolBox\bin\Debug\ModServer.pdb
+D:\Users\Ryan\Desktop\MobiController\ToolBox\obj\Debug\ToolBox.csprojResolveAssemblyReference.cache
+D:\Users\Ryan\Desktop\MobiController\ToolBox\obj\Debug\ToolBox.dll
+D:\Users\Ryan\Desktop\MobiController\ToolBox\obj\Debug\ToolBox.pdb

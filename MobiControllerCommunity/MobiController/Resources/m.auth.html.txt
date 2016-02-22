@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <title></title>
+  
+  
+  
+  <link rel="stylesheet" href="jquery.mobile-1.3.1.min.css">
+  
+  <!-- Extra Codiqa features -->
+  <link rel="stylesheet" href="codiqa.ext.css">
+  
+  <!-- jQuery and jQuery Mobile -->
+  <!-- <script src="https://d10ajoocuyu32n.cloudfront.net/jquery-1.9.1.min.js"></script> -->
+  <!-- <script src="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script> -->
+  <script src="/m/jquerymobile.js"></script>
+
+  <!-- Extra Codiqa features -->
+  <script src="codiqa.ext.js"></script>
+   
+</head>
+<body>
+<!-- Home -->
+<div data-role="page" id="page1">
+    <div data-theme="a" data-role="header" data-position="fixed">
+        <h5>
+            Log in to Continue
+        </h5>
+    </div>
+    <div data-role="content">
+        <div data-role="collapsible-set" data-theme="a" data-content-theme="a">
+            <div data-role="collapsible">
+                <h3>
+                    Log in on Phone
+                </h3>
+                <form id="frmLogin" action="/login" method="POST">
+                    <div data-role="fieldcontain">
+                        <label for="txtUsr">
+                            Username:
+                        </label>
+                        <input name="txtusr" id="txtUsr" placeholder="" value="" type="text">
+                    </div>
+                    <div data-role="fieldcontain">
+                        <label for="txtkey">
+                            Password:
+                        </label>
+                        <input name="txtpassword" id="txtkey" placeholder="" value="" type="password">
+                    </div>
+                    <a id="btnLogin" data-role="button" data-theme="e" href="#page1">
+                        Log in
+                    </a>
+                </form>
+            </div>
+        </div>
+        <form action="localAuth" method="POST">
+            <input id="btnAuthLocal" data-theme="a" value="Authenticate on Computer"
+            type="submit">
+        </form>
+    </div>
+</div>
+</body>
+</html>

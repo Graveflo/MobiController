@@ -1,0 +1,11 @@
+﻿<Window x:Class="MobiController.LogInfoView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="LogInfoView" Height="300" Width="300" Icon="/MobiController;component/Resources/Important.ico">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Style="{x:Null}" x:Name="txtMessage" TextWrapping="Wrap" IsReadOnly="True" Foreground="Black"/>
+    </Grid>
+</Window>

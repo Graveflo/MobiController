@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <META HTTP-EQUIV="RSA" CONTENT="no-cache" />
+    <META HTTP-EQUIV="Expires" CONTENT="-1" />
+    <title></title>
+
+    <link rel="stylesheet" href="/m/jquery.mobile-1.3.2.min.css" />
+    <script language="JavaScript" type="text/javascript" src="/jquery-1.9.1.min.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/m/jquery.mobile-1.3.2.min.js"></script>
+	
+	<script type="text/javascript" src="/m/fastclick.js"></script>
+	<script type="text/javascript">
+		$("wmgr").load($.post("/wpl", parseWindows));
+		$("procmon").load($.post("/proc", parseProcesses));
+		$('document').bind('touchmove',function(e){
+		event.originalEvent.preventDefault();
+		//var touch = e.originalEvent.touches[0] || e.originalEvent.changedTouches[0];
+		alert(touch.pageY+' '+touch.pageX);
+		});
+		function parseWindows(data){
+		$("#WindowList").html(data);
+		$("#WindowList").listview("refresh");
+		}
+		function parseProcesses(data){
+		$("#ProcessList").html(data);
+		$("#ProcessList").listview("refresh");
+		}
+    </script>
+</head>
+<body onload="initFastButtons();">
+<span id="fastclick">
+    <!-- Home -->
+    <div data-role="page" id="page1" data-theme="a">
+       <div data-theme="a" data-role="header">
+        <h3>
+           Administration
+        </h3>
+		</div>
+    <div data-role="content" data-theme="a">
+        <div data-role="collapsible-set" data-theme="a" data-content-theme="a">
+            <div data-role="collapsible">
+                <h3>
+                    Power Options
+                </h3>
+                <input data-theme="a" value="Shutdown PC" type="button" OnClick='$.post("/s")'>
+                <input data-theme="a" value="Restart PC" type="button" OnClick='$.post("/r")'>
+                <input data-theme="a" value="Log Off PC" type="button" OnClick='$.post("/l")'>
+				<input data-theme="a" value="Win8 Hybrid Shutdown" type="button" OnClick='$.post("/w8s")'>
+				<input data-theme="a" value="Turn Off Display" type="button" OnClick='$.post("/pmon")'>
+            </div>
+        </div>
+		<a data-theme="a" data-icon="grid" data-role="button" href="#procmon">Manage Processes</a>
+    </div>
+    </div>
+	<!-- Start of second page -->
+	<div data-role="page" id="procmon" data-theme="a">
+	<script type="text/javascript">
+		function procPanel(pid){
+			sessionStorage.pid = pid;
+			$.mobile.changePage("#procControl");
+		}
+    </script>
+	    <div data-theme="a" data-role="header">
+        <h3>
+           Process List
+        </h3>
+		</div>
+		<div data-role="content" data-theme="a">
+		
+		<ul data-split-icon="delete" data-split-theme="a" data-role="listview" data-filter="true" id="ProcessList">
+			
+		</ul>
+		</div>
+	</div>
+	</span> <!-- end fastclick -->
+</body>
+</html>

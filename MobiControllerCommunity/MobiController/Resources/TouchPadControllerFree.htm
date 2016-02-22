@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <META HTTP-EQUIV="Expires" CONTENT="-1" />
+    <title></title>
+    
+	<link rel="stylesheet" href="/m/jquery.mobile-1.3.2.min.css" />
+	
+    <script type="text/javascript" src="/jquery-1.9.1.min.js"></script>
+	<script type="text/javascript" src="/m/jquery.mobile-1.3.2.min.js"></script>
+
+    <script type="text/javascript">
+        var leadFinger = -1;
+		var isTap = true;
+		
+        var tapEvent = tapClick;
+		
+		var prevX, prevY;
+		var updateMouse = false;
+
+        $(function () {
+            $("body").bind("touchstart", function (e) {
+                var event = e.originalEvent;
+                var touch = event.changedTouches[0];
+				e.preventDefault();
+                leadFinger = touch.identifier;
+				isTap = true;
+				prevX = event.changedTouches[0].pageX;
+				prevY = event.changedTouches[0].pageY;
+            });
+            $("body").bind("touchend", function (e) {
+                var event = e.originalEvent;
+                var touch = event.changedTouches[0];
+                if (isTap && (leadFinger == touch.identifier)) {
+                    // TAP EVENT
+                    tapEvent(event);
+					leadFinger = -1;
+                }
+            });
+			$("body").bind("touchmove", function(e){
+				var event = e.originalEvent;
+				var a = event.changedTouches;
+				e.preventDefault();
+				
+				if(a[0].identifier == leadFinger){
+				if(isTap && ((a[0].pageX!=prevX) || (a[0].pageY!=prevY))){
+					isTap = false;
+					updateMouse = true;
+				}
+				if(updateMouse){
+					$.post("/m?x=" + (a[0].pageX-prevX) + "&y=" + (a[0].pageY-prevY), function(){ updateMouse=true; });
+					updateMouse=false;
+					prevX = a[0].pageX;
+					prevY = a[0].pageY;
+				}
+				}
+			});
+        });
+
+        function tapClick(event) {
+            var touch = event.changedTouches[0];
+
+            $.post("/click");
+        }
+    </script>
+</head>
+
+<body bgcolor='black'>
+Touch to move mouse.
+Tap to click.
+</body>
+
+</html>

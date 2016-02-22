@@ -1,0 +1,37 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero2" x:Class="MobiController.frmLogView"
+        Title="Event Log" Height="369" Width="656.375" Background="Black" BorderBrush="Black" Foreground="White"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}" Icon="/MobiController;component/Resources/notification_warning.ico">
+
+    <Window.Resources>
+
+    </Window.Resources>
+    <Grid Margin="0,0,2,1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <!--Style="{DynamicResource ListViewStyle1}" ItemContainerStyle="{StaticResource alternatingListViewItemStyle}"-->
+        <ListView x:Name="lstEventLog" Background="#FF727272" ScrollViewer.CanContentScroll="False" ItemsSource="{Binding myList}" AlternationCount="2" IsSynchronizedWithCurrentItem="True" MouseDoubleClick="lstEventsDouble_Click" Foreground="Black">
+
+            <ListView.View>
+                <GridView AllowsColumnReorder="False">
+                    <GridViewColumn Header="Time" Width="130" DisplayMemberBinding="{Binding Time}" />
+                    <GridViewColumn Header="Flags" Width="100" DisplayMemberBinding="{Binding Flags}" />
+                    <GridViewColumn Header="Type" Width="70" DisplayMemberBinding="{Binding EventType}" />
+                    <GridViewColumn Header="Message" Width="340" DisplayMemberBinding="{Binding Message}" />
+                </GridView>
+            </ListView.View>
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Online Help" Click="MenuItem_OnlineHelp_Click"/>
+                    <MenuItem Header="Remove" Click="MenuItem_Remove_Click"/>
+                    <MenuItem Header="View Details" Click="MenuItem_ViewDetail_Click"/>
+                    <MenuItem Header="Open Logfile Location." Click="menuItem_logfilelocation_click"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+
+    </Grid>
+</Window>

@@ -1,0 +1,138 @@
+F:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.exe.config
+F:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.exe
+F:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.pdb
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\DarkTheme.baml
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmClientView.baml
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMain.baml
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmSettings.baml
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\frmLogView.baml
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\LogInfoView.baml
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\App.baml
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmClientView.g.cs
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMain.g.cs
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmSettings.g.cs
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\frmLogView.g.cs
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\LogInfoView.g.cs
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\App.g.cs
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController_MarkupCompile.cache
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.g.resources
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.Properties.Resources.resources
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.csproj.GenerateResource.Cache
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.exe
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.pdb
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.csprojResolveAssemblyReference.cache
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmControllerDesigner.baml
+F:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmControllerDesigner.g.cs
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.exe.config
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.exe
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.pdb
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmClientView.baml
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMain.baml
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmSettings.baml
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\App.baml
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmClientView.g.cs
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMain.g.cs
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmSettings.g.cs
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\App.g.cs
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController_MarkupCompile.cache
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.g.resources
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.Properties.Resources.resources
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.csproj.GenerateResource.Cache
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.exe
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.pdb
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMessageBox.baml
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMessageBox.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.exe.config
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.exe
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\MobiController.pdb
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmClientView.baml
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMain.baml
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmSettings.baml
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMessageBox.baml
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\App.baml
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmClientView.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMain.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmSettings.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmMessageBox.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\App.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController_MarkupCompile.cache
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.g.resources
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.Properties.Resources.resources
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.csproj.GenerateResource.Cache
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.exe
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.pdb
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\MobiController.csprojResolveAssemblyReference.cache
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\WPF\frmLogView.baml
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\WPF\LogInfoView.baml
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\WPF\frmLogView.g.cs
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\WPF\LogInfoView.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\WPF\frmLogView.baml
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\WPF\LogInfoView.baml
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\WPF\frmLogView.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Logging\WPF\LogInfoView.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\BlackBox.dll
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\ModServer.dll
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\BlackBox.pdb
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\ModServer.pdb
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\BlackBox.dll
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\ModServer.dll
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\BlackBox.pdb
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\ModServer.pdb
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmControllerBrowser.baml
+H:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmControllerBrowser.g.cs
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmControllerBrowser.baml
+E:\Projects\Visual Studio\C#\MobiController\MobiController\obj\Debug\Forms\frmControllerBrowser.g.cs
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\ToolBox.dll
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\Tools.dll
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\WinAPI.dll
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\ToolBox.pdb
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\Tools.pdb
+H:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\WinAPI.pdb
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\ToolBox.dll
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\Tools.dll
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\WinAPI.dll
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\ToolBox.pdb
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\Tools.pdb
+E:\Projects\Visual Studio\C#\MobiController\MobiController\bin\Debug\WinAPI.pdb
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\MobiController.exe.config
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\MobiController.exe
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\MobiController.pdb
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\MobiController.exe
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\MobiController.pdb
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\BlackBox.dll
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\ModServer.dll
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\ToolBox.dll
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\Tools.dll
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\WinAPI.dll
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\ModServer.pdb
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\ToolBox.pdb
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\Tools.pdb
+D:\Users\Ryan\Desktop\MobiController\MobiController\bin\Debug\WinAPI.pdb
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\MobiController.csprojResolveAssemblyReference.cache
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmControllerBrowser.baml
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmClientView.baml
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmMain.baml
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmSettings.baml
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmMessageBox.baml
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Logging\WPF\frmLogView.baml
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Logging\WPF\LogInfoView.baml
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\App.baml
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmControllerBrowser.g.cs
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmClientView.g.cs
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmMain.g.cs
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmSettings.g.cs
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Forms\frmMessageBox.g.cs
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Logging\WPF\frmLogView.g.cs
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\Logging\WPF\LogInfoView.g.cs
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\App.g.cs
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\MobiController_MarkupCompile.cache
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\MobiController.g.resources
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\MobiController.Properties.Resources.resources
+D:\Users\Ryan\Desktop\MobiController\MobiController\obj\Debug\MobiController.csproj.GenerateResource.Cache
+K:\Projects\Visual Studio\C#\MobiControllerCommunity\MobiController\bin\Debug\MobiController.exe.config
+K:\Projects\Visual Studio\C#\MobiControllerCommunity\MobiController\obj\Debug\MobiController.exe
+K:\Projects\Visual Studio\C#\MobiControllerCommunity\MobiController\obj\Debug\MobiController.pdb
+H:\Projects\Visual Studio\C#\MobiControllerCommunity\MobiController\bin\Debug\MobiController.exe.config
+H:\Projects\Visual Studio\C#\MobiControllerCommunity\MobiController\obj\Debug\MobiController.exe
+H:\Projects\Visual Studio\C#\MobiControllerCommunity\MobiController\obj\Debug\MobiController.pdb

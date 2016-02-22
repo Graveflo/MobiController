@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobiController", "MobiController\MobiController.csproj", "{3DB8F1FF-DD5F-48F9-AD67-7F73750EDE0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModServer", "ModServer\ModServer.csproj", "{E79162E9-9D43-4329-A7C1-2F0490302680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBox", "ToolBox\ToolBox.csproj", "{D01C093D-471A-4949-ACC3-CBDA31492CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{79B445EB-100C-45AB-B1DD-5441FB940975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAPI", "WinAPI\WinAPI.csproj", "{87E6BA8A-0F28-49F1-90E5-6EC34370A63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB8F1FF-DD5F-48F9-AD67-7F73750EDE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB8F1FF-DD5F-48F9-AD67-7F73750EDE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB8F1FF-DD5F-48F9-AD67-7F73750EDE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB8F1FF-DD5F-48F9-AD67-7F73750EDE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79162E9-9D43-4329-A7C1-2F0490302680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79162E9-9D43-4329-A7C1-2F0490302680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79162E9-9D43-4329-A7C1-2F0490302680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79162E9-9D43-4329-A7C1-2F0490302680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D01C093D-471A-4949-ACC3-CBDA31492CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01C093D-471A-4949-ACC3-CBDA31492CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01C093D-471A-4949-ACC3-CBDA31492CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01C093D-471A-4949-ACC3-CBDA31492CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B445EB-100C-45AB-B1DD-5441FB940975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B445EB-100C-45AB-B1DD-5441FB940975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B445EB-100C-45AB-B1DD-5441FB940975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B445EB-100C-45AB-B1DD-5441FB940975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E6BA8A-0F28-49F1-90E5-6EC34370A63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E6BA8A-0F28-49F1-90E5-6EC34370A63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E6BA8A-0F28-49F1-90E5-6EC34370A63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E6BA8A-0F28-49F1-90E5-6EC34370A63A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
