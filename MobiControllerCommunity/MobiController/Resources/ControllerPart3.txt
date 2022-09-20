@@ -1,4 +1,0 @@
-
-        </h5>
-        </div>
-        <div data-role="content">

@@ -1,7 +1,0 @@
-</script>
-</head>
-<body>
-    <!-- Home -->
-    <div data-role="page" id="page1" data-theme="a">
-        <div data-theme="a" data-role="header" data-position="fixed">
-            <h5>
